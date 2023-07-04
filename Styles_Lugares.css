@@ -1,0 +1,17 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 26 jun. 2023, 21:24:36
+    Author     : Angel
+*/
+
+body{
+    background:linear-gradient(white, pink, aqua, pink);
+    text-align: center;
+}
+
+.col-md-6{
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
